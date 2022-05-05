@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/nats-poc
+/Publish/obj
+/Publish/bin/Debug/net6.0
+/Subscribe/obj
+/Subscribe/bin/Debug/net6.0
